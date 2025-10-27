@@ -1,0 +1,5 @@
+## Quick start (after `git clone`)
+
+1. Make scripts executable:
+```bash
+chmod +x install_tools.sh quick_scan.sh
